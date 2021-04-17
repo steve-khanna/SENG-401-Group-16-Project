@@ -1,0 +1,1 @@
+svn ls -R "https://github.com/square/okio/branches/master" | grep "\.java" | wc -l
