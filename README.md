@@ -2,6 +2,13 @@
 ***
 ### Members: Steve Khanna, Abid Al Labib, David Macababayao, Ragya Mittal, Cobe Reinbold, Long Tran
 ***
+## NOTE: The code for both repositories has been published on GitHub under the following 4 branches:
+* https://github.com/steve-khanna/json-schema-validator/tree/SENG-401-Group16-Pattern1-Factory
+* https://github.com/steve-khanna/json-schema-validator/tree/SENG-401-Group16-Pattern2-Decorator
+* https://github.com/steve-khanna/fastjson/tree/SENG-401-Group16-Pattern3-Singleton
+* https://github.com/steve-khanna/fastjson/tree/SENG-401-Group16-Pattern4-Bridge
+
+***
 ## Overview
 | Software System |Original Github Repo |Forked Github Repo | Maven Repo | Size |# of Classes (Total)| # of Classes (Source)| 
 | ------------- |:-------------:|:-------------:| :-----:|:-----:|:-----:|----:|
